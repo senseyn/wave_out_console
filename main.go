@@ -9,6 +9,9 @@ import (
 )
 
 func main() {
+	fmt.Println("Начало работы...\nЧтобы завершить работу программы 'CTRL+C'")
+	time.Sleep(5 * time.Second)
+
 	file, _ := os.Create("num.txt")
 	defer file.Close()
 
