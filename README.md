@@ -1,2 +1,15 @@
 # wave_out_console
-wave output of the download to the console and writing random numbers to a file
+
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+## Описание
+
+**Random Number Generator** — это простое приложение, которое генерирует случайные числа в заданном диапазоне. Оно может быть полезно для различных задач, таких как тестирование, игры или выбор случайных данных.
+
+## Установка
+
+1. Склонируйте репозиторий на свой компьютер:
+2. Запустите файл main.go
+3. Наблюдайте
+
+#:)
