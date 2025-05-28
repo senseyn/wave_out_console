@@ -16,7 +16,6 @@
 
 ## Контакты
 
-Если у вас есть вопросы или предложения, не стесняйтесь обращаться ко мне в тг: [t.me/xordep](https://t.me/xordep)
+Если у вас есть вопросы или предложения, не стесняйтесь обращаться ко мне в тг: [t.me/xordep](https://t.me/xordep) **:)**
 
-<img src="https://i.pinimg.com/736x/dc/c3/0c/dcc30ccc0233985b8a1a1fb43cf81962.jpg" alt="Здесь был кот.." style="width: 10%; height: auto;">
-# :)
+<img src="https://i.pinimg.com/736x/dc/c3/0c/dcc30ccc0233985b8a1a1fb43cf81962.jpg" alt="Здесь был кот.." style="width: 30%; height: auto;">
