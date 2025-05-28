@@ -19,5 +19,5 @@
 Если у вас есть вопросы или предложения, не стесняйтесь обращаться ко мне в тг: [t.me/xordep](https://t.me/xordep)
 
 ![здесь был кот](https://i.pinimg.com/736x/dc/c3/0c/dcc30ccc0233985b8a1a1fb43cf81962.jpg)
-
+<img src="https://i.pinimg.com/736x/dc/c3/0c/dcc30ccc0233985b8a1a1fb43cf81962.jpg" alt="Альтернативный текст" style="width: 50%; height: auto;">
 # :)
